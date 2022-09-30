@@ -9,9 +9,9 @@ replace (
 )
 
 require (
-	github.com/bandprotocol/chain/v2 v2.3.2
+	github.com/bandprotocol/chain/v2 v2.3.5
 	github.com/cosmos/cosmos-sdk v0.44.5
-	github.com/cosmos/ibc-go v1.1.0
+	github.com/cosmos/ibc-go v1.1.5
 	github.com/gogo/protobuf v1.3.3
 	github.com/streadway/amqp v0.0.0-20200108173154-1c71cc93ed71
 	github.com/stretchr/testify v1.7.0
@@ -25,7 +25,7 @@ require (
 	github.com/ChainSafe/go-schnorrkel v0.0.0-20200405005733-88cbf1b4c40d // indirect
 	github.com/DataDog/zstd v1.4.5 // indirect
 	github.com/armon/go-metrics v0.3.9 // indirect
-	github.com/bandprotocol/go-owasm v0.1.0 // indirect
+	github.com/bandprotocol/go-owasm v0.1.1 // indirect
 	github.com/beorn7/perks v1.0.1 // indirect
 	github.com/bgentry/speakeasy v0.1.0 // indirect
 	github.com/btcsuite/btcd v0.22.0-beta // indirect
